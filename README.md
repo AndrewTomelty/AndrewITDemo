@@ -30,11 +30,11 @@
 
 <h1>Personal Profile</h1>
 <h2>Myers-Briggs Test</h3>
-<p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="500" height="500"></p>
+<p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="350" height="350"</p>
 
 
 <h2>Learning Style Test</h2>
-<p><img src="https://github.com/AndrewTomelty/AndrewITDemo/issues/3#issue-481893355.png" alt="Learning Style Test" width="500" height="500"</p>
+<p><img src="https://user-images.githubusercontent.com/53844491/63213535-dfee6d80-c150-11e9-9641-155b1adfba05.png" alt="Learning Style Test" width="350" height="350"</p>
 
 <h2>Big Five Personality Test</h2>
 <p><img src="

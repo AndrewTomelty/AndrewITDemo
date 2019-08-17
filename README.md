@@ -32,7 +32,7 @@ Welcome to my Profile!
 
 <p>The results would influence my behaviour to use my strengths, according to my personality, when working in a team.</p>
 
-<p>An effective team should be great at communicating, should be diverse, should focus on their goals, offer support and should be able to have fun. Under these qualities, a team should be made up of people with diversified personalities in order for it to be effective. </p>
+<p>An effective team should be great at communicating, should be diverse, should focus on their goals, offer support and should be able to have fun. Under these qualities, a team should be made up of people with diversified personalities in order for it to be effective</p>
   
 <h2>Myers-Briggs Test</h2>
 <p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="350" height="350"></p>
@@ -43,7 +43,7 @@ Welcome to my Profile!
 <ul>
   <li>Auditory - 35%
   <li>Visual - 30%
-  <li>Tactile - 35%
+  <li>Tactile - 35%</li>
   </ul>
 
 <h2>Big Five Personality Test</h2>

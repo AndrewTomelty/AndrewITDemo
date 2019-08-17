@@ -30,7 +30,7 @@
 
 <h1>Personal Profile</h1>
 <h2>Myers-Briggs Test</h3>
-<p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="5000" height="500"></p>
+<p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="500" height="500"></p>
 
 
 <h2>Learning Style Test</h2>

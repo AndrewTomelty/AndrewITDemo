@@ -1,7 +1,4 @@
-# Welcome to my Profile!</h1>
-<!DOCTYPE html>
-<html>
-<body>
+Welcome to my Profile!
   
 <ul> 
   <li>s3668558</li>

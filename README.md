@@ -34,7 +34,12 @@
 
 
 <h2>Learning Style Test</h2>
-<p><img src="https://user-images.githubusercontent.com/53844491/63213535-dfee6d80-c150-11e9-9641-155b1adfba05.png" alt="Learning Style Test" width="350" height="350"</p>
+<p><The Learning Style Test scores were as followes:</p>
+<ul>
+  <li>Auditory - 35%
+  <li>Visual - 30%
+  <li>Tactile - 35%
+  </ul>
 
 <h2>Big Five Personality Test</h2>
 <p><img src="

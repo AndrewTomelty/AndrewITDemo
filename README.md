@@ -39,7 +39,7 @@ Welcome to my Profile!
 
 
 <h1>Learning Style Test</h1>
-<p><The Learning Style Test scores were as follows</p>
+<p>The Learning Style Test scores were as follows</p>
 <ul>
   <li>Auditory - 35%</li>
   <li>Visual - 30%</li>

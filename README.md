@@ -34,11 +34,11 @@ Welcome to my Profile!
 
 <p>An effective team should be great at communicating, should be diverse, should focus on their goals, offer support and should be able to have fun. Under these qualities, a team should be made up of people with diversified personalities in order for it to be effective</p>
   
-<h2>Myers-Briggs Test</h2>
+<h1>Myers-Briggs Test</h1>
 <p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="350" height="350"></p>
 
 
-<h2>Learning Style Test</h2>
+<h1>Learning Style Test</h1>
 <p><The Learning Style Test scores were as follows</p>
 <ul>
   <li>Auditory - 35%</li>
@@ -46,6 +46,6 @@ Welcome to my Profile!
   <li>Tactile - 35%</li>
   </ul>
 
-<h2>Big Five Personality Test</h2>
+<h1>Big Five Personality Test</h1>
 <p><img src="https://user-images.githubusercontent.com/53844491/63213682-a74f9380-c152-11e9-9888-fc7e5821c090.png" alt="Big Five Personality Test" width="750" height="350"></p>
 

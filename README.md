@@ -34,7 +34,7 @@ Welcome to my Profile!
 
 <p>An effective team should be great at communicating, should be diverse, should focus on their goals, offer support and should be able to have fun. Under these qualities, a team should be made up of people with diversified personalities in order for it to be effective. </p>
   
-<h2>Myers-Briggs Test</h3>
+<h2>Myers-Briggs Test</h2>
 <p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="350" height="350"</p>
 
 

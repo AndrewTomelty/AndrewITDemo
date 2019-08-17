@@ -34,7 +34,7 @@
 
 
 <h2>Learning Style Test</h2>
-<p><img src="
+<p><img src="https://github.com/AndrewTomelty/AndrewITDemo/issues/3#issue-481893355" alt="Learning Style Test" width="500" height="500"</p>
 
 <h2>Big Five Personality Test</h2>
 <p><img src="

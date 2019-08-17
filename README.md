@@ -29,3 +29,11 @@
 <p><img src="https://user-images.githubusercontent.com/53844491/63185964-980f0e00-c09e-11e9-978c-00203d2890ee.png" alt="Sales Trader" width="104" height="142">
 
 <h1>Personal Profile</h1>
+<h2>Myers-Briggs Test</h3>
+<p><img src="
+
+<h2>Learning Style Test</h2>
+<p><img src="
+
+<h2>Big Five Personality Test</h2>
+<p><img src="

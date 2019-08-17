@@ -26,11 +26,11 @@
 <h1>Ideal Job</h>
 
 <p>My <a href="https://www.seek.com.au/job/39678991?searchrequesttoken=2fbf6d0e-962f-456e-ac95-84869d6a5baf&type=standout">Ideal Job</a></p>
-<p><img src="https://user-images.githubusercontent.com/53844491/63185964-980f0e00-c09e-11e9-978c-00203d2890ee.png" alt="Sales Trader" width="104" height="142"></p>
+<p><img src="https://user-images.githubusercontent.com/53844491/63185964-980f0e00-c09e-11e9-978c-00203d2890ee.png" alt="Sales Trader" width="250" height="500"></p>
 
 <h1>Personal Profile</h1>
 <h2>Myers-Briggs Test</h3>
-<p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="104" height="142"></p>
+<p><img src="https://user-images.githubusercontent.com/53844491/63213390-45415f00-c14f-11e9-997d-7fe2497562b3.png" alt="Myers-Briggs Personality Test" width="250" height="500"></p>
 
 
 <h2>Learning Style Test</h2>

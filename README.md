@@ -1,4 +1,5 @@
 Welcome to my Profile!
+<p><img src="https://user-images.githubusercontent.com/53844491/63221458-9d727280-c1dc-11e9-888a-3ee7e8646234.jpg" alt="Profile Picture" width="400" height="500"></p>
   
 <ul> 
   <li>s3668558</li>
